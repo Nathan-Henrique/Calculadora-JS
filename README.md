@@ -1,2 +1,2 @@
-# Calculadora JS
- Calculadora desenvolvida com a OneBitCode.
+# Calculator JS
+ Calculator developed with OneBitCode.
